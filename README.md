@@ -38,10 +38,10 @@
 
 ### 🚀 Project Terbaru
 
-- [**SPK Pemilihan Tenaga Kependidikan**](https://dafaadhari.github.io/spk-saw/)  
+- [**Spk Tenaga Kependidikan**](https://dafaadhari.github.io/spk-saw/)  
   Aplikasi web sederhana berbasis metode SAW untuk bantu pengambilan keputusan.
 
-- [**SuperApp (Magang)**](https://simakip-app.vercel.app/)  
+- [**SuperApps (Internship)**](https://simakip-app.vercel.app/)  
   Kontribusi front-end React untuk sistem informasi dan sistem manajemen LPPM.
 
 ---
@@ -62,7 +62,7 @@
 
 ---
 
-### 🧠 Fun Fact
+### 🧠 Fun Quote
 
 > “ngoding itu capek, tapi lebih capek kalau idenya keburu basi gara-gara nggak dieksekusi.”
 
