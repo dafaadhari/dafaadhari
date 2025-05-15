@@ -1,11 +1,11 @@
-<h1 align="center">Hi! Dap's here</h1>
+<h1 align="center">hi! dap's here</h1>
 
 <p align="center">
-  Mahasiswa TI yang lagi ngulik <b>SPK</b> & <b>pengembangan aplikasi web</b>. Lagi proses tumbuh jadi Software Engineer yang solid, sambil explore dunia <b>AI & Testing</b>.
+  mahasiswa TI yang lagi ngulik <b>SPK</b> & <b>pengembangan aplikasi web</b>. lagi proses tumbuh jadi Software Engineer yang solid, sambil explore dunia <b>AI & Testing</b>.
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Gif" width="600" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Gif" width="900" />
 </p>
 
 ---
@@ -41,7 +41,7 @@
 - [**SPK Pemilihan Tenaga Kependidikan**](https://dafaadhari.github.io/spk-saw/)  
   Aplikasi web sederhana berbasis metode SAW untuk bantu pengambilan keputusan.
 
-- [**SuperApp SIMAKIP (Magang)**](https://simakip-app.vercel.app/)  
+- [**SuperApp (Magang)**](https://simakip-app.vercel.app/)  
   Kontribusi front-end React untuk sistem informasi dan sistem manajemen LPPM.
 
 ---
@@ -64,7 +64,7 @@
 
 ### 🧠 Fun Fact
 
-> “Ngoding itu capek, tapi lebih capek kalau idenya keburu basi gara-gara nggak dieksekusi.”
+> “ngoding itu capek, tapi lebih capek kalau idenya keburu basi gara-gara nggak dieksekusi.”
 
 ---
 
