@@ -1,4 +1,4 @@
-<h1 align="center">Hi! dap's here</h1>
+<h1 align="center">Hi! 👋 dap's here</h1>
 
 <p align="center">
   Mahasiswa TI yang lagi ngulik <b>SPK</b> & <b>Web Development</b>. Lagi proses tumbuh jadi Software Engineer yang solid, sambil explore dunia <b>AI & Testing</b>.
