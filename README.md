@@ -1,4 +1,4 @@
-<h1 align="center">Hi! 👋 dap's here</h1>
+<h1 align="center">Hi👋! dap's here</h1>
 
 <p align="center">
   Mahasiswa TI yang lagi ngulik <b>SPK</b> & <b>Web Development</b>. Lagi proses tumbuh jadi Software Engineer yang solid, sambil explore dunia <b>AI & Testing</b>.
@@ -40,7 +40,7 @@
 
 ### 🚀 Project Terbaru
 
-- [**Spk Tenaga Kependidikan**](https://dafaadhari.github.io/spk-saw/)  
+- [**Spk Tenaga Kependidikan (Tugas Akhir)**](https://dafaadhari.github.io/spk-saw/)  
   Aplikasi web sederhana berbasis metode SAW untuk bantu pengambilan keputusan.
 
 - [**SuperApps (Internship)**](https://simakip-app.vercel.app/)  
