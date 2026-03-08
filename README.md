@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋! dap's here</h1>
 
 <p align="center">
-  Mahasiswa TI yang lagi ngulik <b>SPK</b> & <b>Web Development</b>. Lagi proses tumbuh jadi Software Engineer yang solid, sambil explore dunia <b>AI</b>.
+  FreshGrad Teknik Informatika yg lagi ngulik <b>Web Development</b>. Lagi proses tumbuh jadi Software Engineer yg solid, sambil explore dunia <b>AI</b>.
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@
 
 ### 🚀 Project Terbaru
 
-- [**Spk Tenaga Kependidikan (Tugas Akhir)**](https://spksaw.gt.tc)  
+- [**Decision Support System (Final Exam)**](https://spksaw.gt.tc)  
   Aplikasi web sederhana berbasis metode SAW untuk bantu pengambilan keputusan.
 
 - [**SuperApps (Internship)**](https://simakip-app.vercel.app/)  
