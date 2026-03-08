@@ -40,7 +40,7 @@
 
 ### 🚀 Project Terbaru
 
-- [**Spk Tenaga Kependidikan (Tugas Akhir)**](https://dafaadhari.github.io/spk-saw/)  
+- [**Spk Tenaga Kependidikan (Tugas Akhir)**](https://spksaw.gt.tc)  
   Aplikasi web sederhana berbasis metode SAW untuk bantu pengambilan keputusan.
 
 - [**SuperApps (Internship)**](https://simakip-app.vercel.app/)  
