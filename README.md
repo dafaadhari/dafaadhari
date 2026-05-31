@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋! dap's here</h1>
 
 <p align="center">
-  FreshGrad Teknik Informatika yg lagi ngulik <b>Web Development</b>. Lagi proses tumbuh jadi Software Engineer yg solid, sambil explore dunia <b>AI</b>.
+  FreshGrad Teknik Informatika. Lagi proses tumbuh jadi Software Engineer yg solid, sambil explore dunia <b>AI</b>.
 </p>
 
 <p align="center">
