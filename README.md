@@ -32,10 +32,6 @@
 
 <p align="center">
   <a href="https://github.com/dafaadhari">
-    <img src="https://github-readme-stats.vercel.app/api?username=dafaadhari&show_icons=true&theme=radical" alt="Dafa's GitHub Stats" />
-  </a>
-  <br><br>
-  <a href="https://github.com/dafaadhari">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dafaadhari&theme=radical" alt="Dafa's GitHub Streak" />
   </a>
 </p>
