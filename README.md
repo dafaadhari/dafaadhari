@@ -40,11 +40,11 @@
 
 ### 🚀 Project Terbaru
 
+- [**Qshe Inspectiona App**](https://qshe-inspection-app.vercel.app/)
+  Aplikasi inspeksi lapangan digital yang dinamis, responsif, dan mendukung penggunaan luring (offline) untuk PT PP (Persero) Tbk.
+
 - [**Dogma**](https://dogma.gt.tc)  
   DOGMA adalah portal berita dan artikel dinamis berbasis Laravel yang dirancang dengan sistem diskusi native, optimasi SEO, serta antarmuka modern untuk menyajikan pengalaman membaca yang interaktif dan profesional.
-
-- [**Decision Support System (Final Exam)**](https://spksaw.gt.tc)  
-  Aplikasi web sederhana berbasis metode SAW untuk bantu pengambilan keputusan.
 
 ---
 
