@@ -54,7 +54,7 @@
   <a href="https://linkedin.com/in/dafa-adhari" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://dafaadhari.github.io/portfolio/" target="_blank">
+  <a href="https://dap-psi.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FFB400?style=for-the-badge&logo=aboutdotme&logoColor=white" />
   </a>
   <a href="https://instagram.com/mochdafaadhari/" target="_blank">
