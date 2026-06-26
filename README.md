@@ -40,7 +40,7 @@
 
 ### 🚀 Project Terbaru
 
-- [**Qshe Super App**](https://qshe-inspection-app.vercel.app/)
+- [**Qhse Super App**](https://qshe-inspection-app.vercel.app/)
   Aplikasi inspeksi lapangan digital yang dinamis, responsif, dan mendukung penggunaan luring (offline) untuk PT PP (Persero) Tbk.
 
 - [**Dogma**](https://dogma.gt.tc)  
